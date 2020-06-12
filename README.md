@@ -1,5 +1,5 @@
 # SQLines-Data
-SQLines Data 是一款开源(Apache License 2.0)，可伸缩的，并行高性能的data传输、schema转换工具，可以用作数据库迁移和ETL处理。<br>
+SQLines Data 是一款开源(Apache License 2.0)，可伸缩，并行高性能的data传输、schema转换工具，可以用作数据库迁移和ETL处理。<br>
 
 支持数据库:<br>
 Oracle and Oracle Exadata<br>
